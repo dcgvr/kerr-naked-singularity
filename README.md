@@ -1,4 +1,4 @@
-# kerr-naked-singularity (KNS)
+# Kerr Naked Singularity (KNS)
 
 The main file of interest is "KNS shadow.ipynb", which documents all the figures in my 
 "Shadow Geometry of Kerr Naked Singularities" paper (published in ApJ 954, 78, Aug 2023).
