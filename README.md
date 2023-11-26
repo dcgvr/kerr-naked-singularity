@@ -4,7 +4,7 @@ The main file of interest is "KNS shadow.ipynb", which documents all the figures
 "Shadow Geometry of Kerr Naked Singularities" paper (published in ApJ 954, 78, Aug 2023).
 This paper explores some observational signatures of Kerr naked singularities, theoretical objects that
 occur when Kerr (spinning) black holes spin so fast that their event horizons vanish, leaving behind
-naked singularities. The observables are relevant to direct black hole imaging and fundamental physics test.
+naked singularities. The observables are relevant to direct black hole imaging and fundamental physics testing.
 
 The other Jupyter Notebooks under the "Exploratory Notebook" folder document my earlier exploratory work
 on ray-tracing around Kerr black holes and naked singularities, with some demos of light geodesics. In addition,
